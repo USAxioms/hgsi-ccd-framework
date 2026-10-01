@@ -1,0 +1,5 @@
+name = "hgsi"
+defaultTargets = ["Hgsi"]
+
+[[lean_lib]]
+name = "Hgsi"
